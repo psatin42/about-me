@@ -4,7 +4,13 @@
 </div>
 Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
 
-
+<h3>My stack:</h3>
+<ul>
+  <li>Frontend: JavaScript, React, Redux, HTML, CSS, SCSS, Bootstrap</li>
+  <li>Backend: JavaScript, TypeScript, Express.js, Koa.js, Fastify.js</li>
+  <li>Database: Postgres + Sequelize</li>
+  <li>Test: Jest</li>
+</ul>
 
 <h3>My contacts:</h3>
 <p dir="auto">
