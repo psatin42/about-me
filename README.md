@@ -13,9 +13,6 @@ Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
 </ul>
 
 
-<h3>:fire: My Stats :</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=psatin42&count_private=true">
-
 <h3>My contacts:</h3>
 <div dir="auto">
 <a href="https://t.me/syshkerik" rel="nofollow"><img align="left" alt="juljuliks | Telegram" width="32px" src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>
