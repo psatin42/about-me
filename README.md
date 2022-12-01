@@ -4,7 +4,7 @@
 </div>
 Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
 
-<h3>My stack:</h3>
+<h3>:hammer_and_wrench: My stack:</h3>
 <ul>
   <li>Frontend: JavaScript, React, Redux, HTML, CSS, SCSS, Bootstrap</li>
   <li>Backend: JavaScript, TypeScript, Express.js, Koa.js, Fastify.js</li>
