@@ -14,7 +14,7 @@ Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
 
 
 <h3>:fire: My Stats :</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=psatin42">
+<img src="https://github-readme-stats.vercel.app/api?username=psatin42&count_private=true">
 
 <h3>My contacts:</h3>
 <div dir="auto">
