@@ -12,6 +12,7 @@ Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
   <li>Test: Jest</li>
 </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h3>:fire: My Stats :</h3>
 <a href="https://github.com/psatin42"><img src="https://camo.githubusercontent.com/b72bbb0f169869424fb07d7fec77939cfe605d892e5b0fad859e0d4f2d92ce7d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c7573682d6461736826686964653d69737375657326636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565" alt="Ksenia's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=psatin42&amp;hide=issues&amp;count_private=true&amp;show_icons=true" style="max-width: 100%;"></a>
 
