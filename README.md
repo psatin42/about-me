@@ -13,7 +13,7 @@ Hi, everyone! I'm Ksenia - Fullstack Javascript Developer. Love to code.
 </ul>
 
 <h3>:fire: My Stats :</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psatin42&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h3>My contacts:</h3>
 <div dir="auto">
